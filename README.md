@@ -1,7 +1,7 @@
 # 💳 ATM Interface  
 ### 💼 Internship Project — OASIS INFOBYTE (Task 3)
 
-![ATM Interface Banner](https://github.com/yourusername/OIBSIP3/blob/main/atm_interface.jpg)
+![ATM Interface Banner](https://github.com/rakshiii2605/OIBSIP3/blob/main/Atm%20interface.webp)
 
 ---
 
